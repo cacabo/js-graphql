@@ -8,9 +8,12 @@
   "license": "MIT",
   "scripts": {
     "hello": "node js/helloWorld",
-    "express": "node js/server"
+    "express": "node js/server",
+    "apollo": "node js/apolloServer"
   },
   "dependencies": {
+    "apollo-server-express": "^2.0.6",
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "express-graphql": "^0.6.12",
     "graphql": "^14.0.2"
