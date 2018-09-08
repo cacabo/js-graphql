@@ -1,4 +1,4 @@
-# GraphQL and JavaScript
+# Intro to GraphQL with JavaScript
 
 Playing around with GraphQL, express, and node. These are different forms of a very similar hello world app.
 
