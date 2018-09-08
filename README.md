@@ -15,3 +15,7 @@ Useful resources:
 * [GraphQL with JS intro](https://graphql.org/code/#javascript)
 * [Learn more about template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 * [Learn more about Apollo](https://www.apollographql.com/)
+
+--------------------
+
+For part 2 of this demo, [go here](https://github.com/ccabo1/react-graphql).
