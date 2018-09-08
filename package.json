@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/ccabo1/graphql",
   "author": "Cameron Cabo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^14.0.2"
+  }
 }
